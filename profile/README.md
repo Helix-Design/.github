@@ -33,6 +33,5 @@ Welcome to Helix-Design, your go-to for cutting-edge frontend development soluti
 [learning_next_anchor]: #learning-next
 
 
-![Discord Shield](https://discordapp.com/api/guilds/902633866307719189/widget.png?style=banner2)
-
+[<img src="https://discordapp.com/api/guilds/902633866307719189/widget.png?style=banner2">](https://discord.gg/Ywn7cj8bMb)
 
